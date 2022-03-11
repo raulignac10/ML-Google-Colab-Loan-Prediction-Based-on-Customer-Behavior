@@ -14,10 +14,11 @@ Una organización quiere predecir quiénes son los posibles morosos del producto
 
 [Dataset](https://www.kaggle.com/subhamjain/loan-prediction-based-on-customer-behavior)
 
-El proyecto se encuntra desarrollado en su totalidad en Google Colab donde es posible visualizarlo y ejecutarlo.
+El proyecto se encuentra desarrollado en su totalidad en Google Colab donde es posible visualizarlo y ejecutarlo.
 
 <p align="center">
-  <img width="560" height="400" src="https://user-images.githubusercontent.com/97913559/157889875-523779aa-3c65-410c-8626-b0fd6f33bff1.png">
+<img width="1436" alt="Screenshot at Mar 11 11-43-54" src="https://user-images.githubusercontent.com/97913559/157890595-dad87e5c-b130-4dc1-9e66-4f02251930f2.png">
 </p>
+
 
 [Proyecto ML en Google Colab](https://colab.research.google.com/drive/1fanHLPSlTbishp8rThthiu6im4cVmUMn?usp=sharing)
